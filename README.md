@@ -40,4 +40,4 @@ Vue CLI: https://vimeo.com/509686164
 
 ## Inspelningar
 
-https://drive.google.com/drive/folders/1hSyzkh_2_r7Iu3rhwolbctUmdk0qO6NI?usp=sharing
+https://drive.google.com/drive/folders/1kFnUVP1JlK3QBveWXhrOk8vGL99dZICm?usp=sharing
