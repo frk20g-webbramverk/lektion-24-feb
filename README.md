@@ -19,15 +19,20 @@ Istället för att kopiera över frukter så ska du nu flytta frukter. D.v.s. ta
 https://github.com/zocom-christoffer-wallenberg/vue-schro-dingers-cat
 
 ### Memory game
+Du ska i denna övning bygga ett memoryspel.
 
+**Funktionalitet**
+* Spelplanen ska vara 4 x 4 alltså 16 kort.
+* Det ska visas ett meddelande när användaren har klarat memory-spelet.
+* Korten ska "flippas" d.v.s det är gömda först och när en användare klickar på det ska siffran visas.
 
 ## Artiklar
 
-Vue dokumentation: https://vuejs.org/v2/guide/
+Conditional rendering: https://vuejs.org/v2/guide/conditional.html
 
-Vue Style Guide: https://vuejs.org/v2/style-guide/
+Loopar i Vue: https://www.digitalocean.com/community/tutorials/vuejs-iterating-v-for
 
-Vue CLI: https://cli.vuejs.org/
+En bra artikel om mindset när man skapar komponenter i Vue: https://www.telerik.com/blogs/the-mindset-of-component-composition-in-vue
 
 ## Videor
 
